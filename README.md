@@ -1,6 +1,4 @@
-- 👋 Hi, I’m yam
-- 👀 I’m interested in linux, vim, algorithms and visualisations
-- 🌱 I’m currently learning opengl
+
 - 📫 Discord: Yakondu#1531
 
 <!---
