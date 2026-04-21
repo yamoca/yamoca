@@ -1,5 +1,12 @@
-Hello World
-<!---
-yamoca/yamoca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
+  __________________________________________
+| noli tempus in sententiolis tritis perdere |
+  ==========================================
+                                          \
+                                           \
+                                             ^__^
+                                             (oo)\_______
+                                             (__)\       )\/\
+                                                 ||----w |
+                                                 ||     ||
+```
